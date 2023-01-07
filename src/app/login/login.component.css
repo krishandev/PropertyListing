@@ -1,0 +1,16 @@
+.text-center{
+    background-color: gray;
+    color: white;
+}
+
+.card{
+    margin-top: 15px;
+    left: 20%;
+    top: 5%;
+    position: absolute;
+    padding: 45px;
+    width: 550px;
+    border: 1px solid blue;
+    width: 60%;
+    bottom: 20%;
+}

@@ -1,0 +1,30 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "Plot for Sale",
+      "pprice": "98745.0",
+      "plocation": "Noida",
+      "pdetails": "Plot availavle at best prices in Noida"
+    },
+    {
+      "id": 3,
+      "ptitle": "Prime City Plot",
+      "pprice": "120000",
+      "plocation": "Greater Noida",
+      "pdetails": "500 gaz"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Krishan",
+      "email": "krishan@gmail.com",
+      "mobile": "7053051182",
+      "password": "12345"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

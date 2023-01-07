@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+.anchor{
+    text-decoration: none;
+    cursor: pointer;
+    color: red;
+    border: 1px solid black;
+    width: 15rem;
+    padding: 2px;
+    text-align: center;
+    font-weight: bold;
+
+}

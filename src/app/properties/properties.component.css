@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color: aqua;
+    display: flex;
+    
+}
+
+.rightAlign{
+    float: right;
+}
+
+.btn{
+    color: black;
+}
